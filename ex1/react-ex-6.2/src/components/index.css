@@ -1,0 +1,25 @@
+
+
+button {
+    margin-top: 1rem;
+    width: 6rem;
+    height: 3rem;
+}
+.display {
+    margin-top: 4rem;
+    background-color: yellow;
+    height: 6rem;
+
+ 
+}
+.hidden {
+    display: none;
+    /* background-color: white; */
+}
+
+.theboxShow {
+    text-align: center;
+    border: 2px solid black;
+    width: 10rem;
+    height: 15rem;
+}
