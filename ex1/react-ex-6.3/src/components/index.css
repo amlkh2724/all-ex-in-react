@@ -1,0 +1,17 @@
+
+
+.theboxShow {
+    text-align: center;
+    border: 2px solid black;
+    width: 10rem;
+    height: 15rem;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.black{
+    background-color: black;
+}
