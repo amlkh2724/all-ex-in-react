@@ -1,0 +1,31 @@
+
+
+
+
+
+.boxes{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    transform: translateX(-40%) ;
+}
+.box1{
+    width: 10rem;
+    height: 4rem;
+    background-color: red;
+}
+.box2{
+    width: 10rem;
+    height: 4rem;
+    background-color: black;
+}
+.box3{
+    width: 10rem;
+    height: 4rem;
+    background-color: royalblue;
+}
+.box4{
+    width: 10rem;
+    height: 4rem;
+    background-color: aqua;
+}
