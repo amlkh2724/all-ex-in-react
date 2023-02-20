@@ -1,0 +1,38 @@
+@keyframes change-color {
+    0%, 20% {
+      background-color: #FF5733;
+    }
+    25%, 45% {
+      background-color: #C70039;
+    }
+    50%, 70% {
+      background-color: #900C3F;
+    }
+    75%, 95% {
+      background-color: #581845;
+    }
+    100% {
+      background-color: #FF5733;
+    }
+  }
+  
+  .changingColor {
+    animation: change-color 5s ease-in-out;
+    background-color: #FF5733;
+    height: 5rem;
+    width: 5rem;
+     /* Add this to make the element a circle */
+  }
+  .circle {
+    border-radius: 50%;
+  }
+  body {
+    background-color: black;
+  }
+  
+  .center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
