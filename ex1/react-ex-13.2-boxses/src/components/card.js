@@ -1,11 +1,15 @@
 // import { useRef } from "react";
 import { useEffect, useState } from "react"
 import './index.css'
-// . We want to create a simple app: a box that slides onto the
-// screen 1 sec after the page loads and then disappears
-// from the DOM after 4 seconds.
-// 2. We also want to be able to add 3 such boxes of different
-// sizes
+// The following exercise contains the following subjects:
+// ● useEffect
+// ● useRef
+// Instructions
+// Many times when you create a form you want to focus
+// right away on a input field.
+// Create an input field that will focus on the input element
+// when the component mounts to the screen.
+// Target the input field using ref
 
 
 
