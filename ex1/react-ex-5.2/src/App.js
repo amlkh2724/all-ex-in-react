@@ -11,6 +11,7 @@ function App() {
     const randomLinks = Math.floor(Math.random() * links.length)
     const randomTitles = Math.floor(Math.floor(Math.random() * titles.length))
     const randomDescriptions = Math.floor(Math.floor(Math.random() * descriptions.length))
+    
     return (
       <CreateImg
         key={img}

@@ -8,7 +8,7 @@ function App() {
   const [hello, world] = Data
   const Number1 = 5;
   const Number2 = 6;
-  const Str=Number1 + Number2
+  const Str = Number1 + Number2
   const string = "I love React!"
 
   return (
