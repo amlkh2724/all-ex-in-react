@@ -1,0 +1,9 @@
+.container2{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    padding: 10px;
+}
+.itemlist {
+    width: 30;
+}
